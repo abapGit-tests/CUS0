@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SHI3" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TREE_HEAD>
+    <ID>0242AC1100021ED8A1D0D18127E54ABD</ID>
+    <TYPE>IMG</TYPE>
+    <NODE_ID>0242AC1100021ED8A1D0D18127F1CABD</NODE_ID>
+    <MASTERLANG>E</MASTERLANG>
+    <BUFFERMODE>0</BUFFERMODE>
+    <SINGLENODE>X</SINGLENODE>
+   </TREE_HEAD>
+   <TREE_TITLES>
+    <TTREET>
+     <SPRAS>E</SPRAS>
+     <ID>0242AC1100021ED8A1D0D18127E54ABD</ID>
+     <TEXT>abapGit unit test</TEXT>
+     <TEXT_CAP>ABAPGIT UNIT TEST</TEXT_CAP>
+    </TTREET>
+   </TREE_TITLES>
+   <TREE_NODES>
+    <HIER_IFACE>
+     <NODE_ID>0242AC1100021ED8A1D0D18127F1CABD</NODE_ID>
+     <NODE_TYPE>IMG0</NODE_TYPE>
+     <NODE_LEVEL>01</NODE_LEVEL>
+     <TREE_ID>0242AC1100021ED8A1D0D18127E54ABD</TREE_ID>
+    </HIER_IFACE>
+   </TREE_NODES>
+   <TREE_TEXTS>
+    <HIER_TEXTS>
+     <SPRAS>E</SPRAS>
+     <NODE_ID>0242AC1100021ED8A1D0D18127F1CABD</NODE_ID>
+     <TEXT>abapGit unit test</TEXT>
+    </HIER_TEXTS>
+   </TREE_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
