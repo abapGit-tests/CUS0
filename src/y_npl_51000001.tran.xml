@@ -13,6 +13,10 @@
     <S_WIN32>X</S_WIN32>
     <S_PLATIN>X</S_PLATIN>
    </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>Y_NPL_51000001</TCODE>
+   </TSTCT>
    <I18N_TPOOL>
     <TSTCT>
      <TTEXT>IMG Activity</TTEXT>
